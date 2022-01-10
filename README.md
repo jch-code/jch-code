@@ -1,4 +1,5 @@
 ## Hello World!
+I'm a full time software developer, mainly working on enterprise web and mobile applications. I don't have many open source projects, but I am hoping to change that in 2022!
 
 ### Languages
 
@@ -11,15 +12,17 @@
 
 ### Frameworks
 
-![.NET](https://img.shields.io/badge/-.NET-525252?style=flat&logo=.NET&logoColor=512BD4)
-![Angular](https://img.shields.io/badge/-Angular-525252?style=flat&logo=Angular&logoColor=DD0031)
+![.NET](https://img.shields.io/badge/-.NET-525252?style=flat&logo=dotnet&logoColor=512BD4)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-525252?style=flat&logo=Node.js&logoColor=339933)
 
-### Technologies
+![VueJs](https://img.shields.io/badge/-Vue.js-525252?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![NuxtJs](https://img.shields.io/badge/-NuxtJs-525252?style=flat&logo=nuxtdotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/-Angular-525252?style=flat&logo=Angular&logoColor=DD0031)
+
+### Tools
 
 ![VSCode](https://img.shields.io/badge/-VS%20Code-525252?style=flat&logo=Visual%20Studio%20Code&logoColor=23A9F2)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-525252?style=flat&logo=Visual%20Studio&logoColor=5C2D91)
-![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-525252?style=flat&logo=Microsoft%20SQL%20Server&logoColor=CC2927)
+![git](https://img.shields.io/badge/-git-525252?style=flat&logo=Git&logoColor=F44D27)
 ![GitHub](https://img.shields.io/badge/-GitHub-525252?style=flat&logo=GitHub&logoColor=181717)
 ![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-525252?style=flat&logo=Azure%20DevOps&logoColor=0078D7)
-![git](https://img.shields.io/badge/-Github-525252?style=flat&logo=Git&logoColor=F44D27)
